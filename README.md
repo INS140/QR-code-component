@@ -26,8 +26,8 @@ it has taught me a lot about the logistics of creating well-designed websites.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ins140.github.io/QR-code-component)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/w3schools-css-flexbox-bTdzWjByOL)
+- Live Site URL: [Live Site](https://ins140.github.io/QR-code-component)
 
 ## My process
 
